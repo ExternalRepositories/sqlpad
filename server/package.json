@@ -89,7 +89,7 @@
     "pino": "^6.7.0",
     "prettier": "^2.1.2",
     "query-string": "^6.13.6",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "request": "^2.88.2",
     "rimraf": "^3.0.2",
     "sanitize-filename": "^1.6.3",
